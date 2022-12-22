@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "express-jwt": "^5.3.1",
     "express-redirect": "^1.2.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mysql2": "^1.6.5",
     "pg": "^7.9.0",
     "pg-hstore": "^2.3.2",
